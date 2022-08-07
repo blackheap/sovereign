@@ -17,4 +17,4 @@ With the cryptocurrency developments in the last decade and the recent formuliza
 
 ## Tokenomics
 
-Black Heap introduces a fairly launched cryptocurrency, `HEAP`, and is used as gas for the rollup.
+Black Heap introduces a fairly launched cryptocurrency used for network payments, called `HEAP`.
